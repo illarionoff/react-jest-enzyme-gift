@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gift component should render without error 1`] = `
+<div>
+  <form
+    action=""
+  >
+    <input
+      className="input-person"
+      name="person"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <input
+      className="input-present"
+      name="present"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </form>
+  <button
+    className="btn-remove"
+    onClick={[Function]}
+  >
+    Remove Gift
+  </button>
+</div>
+`;

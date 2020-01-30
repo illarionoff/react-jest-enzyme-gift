@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App component renders without error 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    Hello
+  </h2>
+  <button
+    className="btn-add"
+    onClick={[Function]}
+  >
+    Add
+  </button>
+  <div
+    className="gift-list"
+  />
+</div>
+`;
